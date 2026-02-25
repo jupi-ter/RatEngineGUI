@@ -76,6 +76,7 @@ int main()
     CloseWindow();
 
     free(paths);
+    free(sprite.name);
     UnloadTexture(atlasTexture);
     return 0;
 }
