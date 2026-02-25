@@ -1,0 +1,7 @@
+.o
+*.o
+gui
+gui.*
+bullshit/
+bullshit/*
+raygui.h
