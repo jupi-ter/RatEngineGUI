@@ -5,3 +5,5 @@ gui.*
 bullshit/
 bullshit/*
 raygui.h
+.spritedata
+atlas.png
